@@ -7,10 +7,14 @@ This system demonstrates the basic functionalities of banking applications with 
 
 ## 🧐 Project Overview
 
-This project provides a simple implementation of a banking system where users can register, login, create accounts, manage transactions, and view account details.  
-Admins have extended control to manage user data and monitor transactions.
+The **Bank Management System** is a Java-based application designed to simplify and automate core banking operations.  
+It provides two modules: **User** and **Admin**.  
 
-When a new account is created, the system automatically generates a **unique Account Number** and a **secure PIN** for the user.
+- Users can **sign up, log in, create accounts**, and perform common banking operations such as deposits, withdrawals, balance inquiry, and viewing transaction history.  
+- During account creation, the system automatically generates a **unique Account Number** and a **secure PIN** for each user.  
+- Admins can **monitor users, approve accounts, and track transactions**, ensuring security and smooth management of the system.  
+
+This project is built to demonstrate how fundamental banking functions can be implemented using **Java, JDBC, and MySQL**, making it a great learning project for beginners in software development and database connectivity.
 
 ---
 
